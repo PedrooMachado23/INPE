@@ -1,0 +1,9 @@
+projetos/rotina_dado_bruto/.env
+projetos/rotina_dado_bruto/env.yml
+projetos/rotina_dado_bruto/funcoes/__pycache__
+projetos/rotina_dado_bruto/interfaces/__pycache__
+projetos/rotina_dado_bruto/testes/__pycache__
+.vscode
+projetos/rotina_dado_bruto/testes
+projetos/rotina_dado_bruto/a.py
+projetos/script_verificacao
